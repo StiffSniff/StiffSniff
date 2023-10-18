@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @StiffSniff
 - 👀 I’m interested in Github
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me Github
 
 <!---
 StiffSniff/StiffSniff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
